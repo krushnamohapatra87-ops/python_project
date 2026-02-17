@@ -1,5 +1,4 @@
 # python_project
-python pratices problems 
 my python_projects
 day_name=input("enter a day: ")
 expense_new=int(input("enter a expense: "))
